@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Team_Name": "Monterrey",
+    "Championships": 5,
+    "NumberConcacafChampions": 5
+  },
+  {
+    "Id": 2,
+    "Team_Name": "America",
+    "Championships": 13,
+    "NumberConcacafChampions": 6
+  }
+]

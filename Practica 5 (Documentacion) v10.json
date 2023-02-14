@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Team_Name": "Bayern Munich",
+    "Championships": 32,
+    "NumberChampionsLeague": 6
+  },
+  {
+    "Id": 2,
+    "Team_Name": "Borussia Dortmund",
+    "Championships": 8,
+    "NumberChampionsLeague": 1
+  }
+]

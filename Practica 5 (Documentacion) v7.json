@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Team_Name": "PSG",
+    "Championships": 10,
+    "NumberChampionsLeague": 0
+  },
+  {
+    "Id": 2,
+    "Team_Name": "Lille",
+    "Championships": 4,
+    "NumberChampionsLeague": 0
+  }
+]

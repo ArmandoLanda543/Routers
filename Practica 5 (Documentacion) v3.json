@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Marca": "Intel",
+    "Precio": 354403,
+    "Descuento": 40
+  },
+  {
+    "Id": 2,
+    "Marca": "AMD",
+    "Precio": 150099,
+    "Descuento": 30
+  }
+]

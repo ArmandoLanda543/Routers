@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Team_Name": "Napoli",
+    "Championships": 2,
+    "NumberChampionsLeague": 0
+  },
+  {
+    "Id": 2,
+    "Team_Name": "Juventus",
+    "Championships": 36,
+    "NumberChampionsLeague": 2
+  }
+]

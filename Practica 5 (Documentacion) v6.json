@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Team_Name": "Liverpool",
+    "Championships": 19,
+    "NumberChampionsLeague": 6
+  },
+  {
+    "Id": 2,
+    "Team_Name": "Arsenal",
+    "Championships": 13,
+    "NumberChampionsLeague": 0
+  }
+]
